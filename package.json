@@ -1,0 +1,25 @@
+{
+  "name": "nodejsejssandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaelBrown/NodeJsEJSsandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaelBrown/NodeJsEJSsandbox/issues"
+  },
+  "homepage": "https://github.com/yaelBrown/NodeJsEJSsandbox#readme",
+  "dependencies": {
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "nodemon": "^1.19.4"
+  }
+}
